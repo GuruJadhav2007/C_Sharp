@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36227.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star_Addmission_System", "Star_Addmission_System\Star_Addmission_System.csproj", "{DFE629ED-9EB7-4B77-B636-79227BEB05C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE629ED-9EB7-4B77-B636-79227BEB05C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE629ED-9EB7-4B77-B636-79227BEB05C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE629ED-9EB7-4B77-B636-79227BEB05C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE629ED-9EB7-4B77-B636-79227BEB05C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7988A1F-B5C5-4A62-AF01-2DF29CB2A847}
+	EndGlobalSection
+EndGlobal
